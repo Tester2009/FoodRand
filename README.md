@@ -10,6 +10,28 @@ This is my piece of junk. Feel free to use
 Coming soon
 
 
+## How to use
+Simply follow this step.
+
+Clone this repo first !
+
+	git clone https://github.com/alepcat1710/FoodRand
+
+Go to repo directory
+
+	cd FoodRand
+
+Modify program.py follow your database configuration.
+
+Import db.sql into your database.
+
+Run program
+
+	python3 program.py
+
+Done !
+
+
 ## Copyright
 Copyright (c) 2016 Muhammad Aliff Muazzam
 
