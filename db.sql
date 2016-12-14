@@ -4,3 +4,6 @@ CREATE TABLE `foodrestaurant` (
   `restaurantlocation` text,
   `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+INSERT INTO foodrestaurant (`restaurantname`, `restaurantlocation`) VALUES ('demo_name', 'demo_location');
